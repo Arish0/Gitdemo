@@ -10,3 +10,6 @@ const user = [1,2,3];
 const newUser = "1,2,3";
 
 console.log(user == newUser);
+
+
+
